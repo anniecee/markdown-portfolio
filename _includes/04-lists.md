@@ -1,0 +1,4 @@
+- Dogs 🐶
+- Cooking 🥣
+- Eating 🥗
+- Hiking 🏞️
